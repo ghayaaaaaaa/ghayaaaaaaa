@@ -1,4 +1,4 @@
-![Ghaya Fouad — Python, API, automation, and Flutter portfolio](https://raw.githubusercontent.com/ghayaaaaaaa/ghaya-python-flutter-portfolio/main/assets/portfolio-banner.svg)
+![Code-first editor preview showing the approval gate in Ghaya Fouad's Python workflow portfolio](https://raw.githubusercontent.com/ghayaaaaaaa/ghaya-python-flutter-portfolio/main/assets/portfolio-banner.svg)
 
 # Hi, I’m Ghaya Fouad
 
@@ -30,4 +30,6 @@
 
 ## Project transparency
 
-The featured repositories are AI-assisted demonstrations, not client deliveries or production deployments. Data sources vary by project: Image Processing Workbench uses generated inputs, while Fashion-MNIST loads the public benchmark dataset through Keras and includes no bundled images. No measured model-training result is claimed. See each repository for provenance, setup, and limitations. Open to remote software roles and project work involving Python, API development, automation, or Flutter.
+The featured repositories are AI-assisted demonstrations, not client deliveries or production deployments. Data sources vary by project: Image Processing Workbench uses generated inputs, while Fashion-MNIST loads the public benchmark dataset through Keras and includes no bundled images. No measured model-training result is claimed. See each repository's README for provenance and limitations.
+
+Open to remote software roles and project work involving Python, API development, automation, or Flutter.
