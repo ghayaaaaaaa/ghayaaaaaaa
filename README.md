@@ -20,6 +20,7 @@
 - **[Service Desk API Demo](https://github.com/ghayaaaaaaa/fastapi-service-desk-api)** — A local FastAPI and SQLite service showing typed schemas, validation, filtering, pagination, and parameterized queries.
 - **[Fashion-MNIST CNN](https://github.com/ghayaaaaaaa/fashion-mnist-cnn)** — An AI-assisted TensorFlow/Keras portfolio refactor based on an image-classification notebook supplied by Ghaya. It provides three configurable CNN variants, early stopping, and JSON evaluation output; no benchmark result is claimed.
 - **[Image Processing Workbench](https://github.com/ghayaaaaaaa/image-processing-workbench)** — A reproducible Python CLI for classic image transformations on generated inputs, with a local artifact manifest and no network calls. See its README for provenance and limitations.
+- **[Traffic Index Analysis](https://github.com/ghayaaaaaaa/traffic-index-analysis)** — Five Jupyter notebooks for city-level congestion summaries, peak-hour exploration, and predictive workflows using deterministic synthetic data. The original CSVs are excluded; no benchmark result or live traffic feed is claimed.
 - **[Portfolio Release Auditor](https://github.com/ghayaaaaaaa/portfolio-release-auditor)** — A local Python CLI that reports common release risks by category and safe file reference.
 - **[Freelance Opportunity Tracker](https://github.com/ghayaaaaaaa/freelance-opportunity-tracker)** — An offline Flutter sample for organizing opportunities with search, status filters, and local persistence.
 
