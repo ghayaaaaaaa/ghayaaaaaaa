@@ -19,6 +19,7 @@
 - **[Approval-First Agentic Workflow](https://github.com/ghayaaaaaaa/approval-first-agentic-workflow)** — A deterministic Python workflow demo with allowlisted tools, human approval before protected actions, persisted state, and a local audit trail.
 - **[Service Desk API Demo](https://github.com/ghayaaaaaaa/fastapi-service-desk-api)** — A local FastAPI and SQLite service showing typed schemas, validation, filtering, pagination, and parameterized queries.
 - **[Fashion-MNIST CNN](https://github.com/ghayaaaaaaa/fashion-mnist-cnn)** — An AI-assisted TensorFlow/Keras portfolio refactor based on an image-classification notebook supplied by Ghaya. It provides three configurable CNN variants, early stopping, and JSON evaluation output; no benchmark result is claimed.
+- **[Image Processing Workbench](https://github.com/ghayaaaaaaa/image-processing-workbench)** — A reproducible Python CLI for classic image transformations on generated inputs, with a local artifact manifest and no network calls. See its README for provenance and limitations.
 - **[Portfolio Release Auditor](https://github.com/ghayaaaaaaa/portfolio-release-auditor)** — A local Python CLI that reports common release risks by category and safe file reference.
 - **[Freelance Opportunity Tracker](https://github.com/ghayaaaaaaa/freelance-opportunity-tracker)** — An offline Flutter sample for organizing opportunities with search, status filters, and local persistence.
 
@@ -29,4 +30,4 @@
 
 ## Project transparency
 
-The featured repositories are AI-assisted portfolio demonstrations using synthetic sample data. They are not presented as client deliveries or production deployments. No measured model-training result is claimed. Each repository includes setup notes and known limitations. Open to remote software roles and project work involving Python, API development, automation, or Flutter.
+The featured repositories are AI-assisted demonstrations, not client deliveries or production deployments. Data sources vary by project: Image Processing Workbench uses generated inputs, while Fashion-MNIST loads the public benchmark dataset through Keras and includes no bundled images. No measured model-training result is claimed. See each repository for provenance, setup, and limitations. Open to remote software roles and project work involving Python, API development, automation, or Flutter.
