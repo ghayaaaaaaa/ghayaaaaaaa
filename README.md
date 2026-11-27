@@ -16,7 +16,7 @@
 
 ## Featured projects
 
-- **[Approval-First Agentic Workflow](https://github.com/ghayaaaaaaa/approval-first-agentic-workflow)** — A deterministic Python workflow demo with allowlisted tools, human approval before protected actions, persisted state, and a local audit trail.
+- **[Approval-First Agentic Workflow](https://github.com/ghayaaaaaaa/approval-first-agentic-workflow)** — An offline-first Python workflow agent with a deterministic planner by default and an optional, explicitly enabled Responses API planner. A local validator, strict tool allowlist, SQLite audit trail, and separate approval gate constrain its effects.
 - **[Service Desk API Demo](https://github.com/ghayaaaaaaa/fastapi-service-desk-api)** — A local FastAPI and SQLite service showing typed schemas, validation, filtering, pagination, and parameterized queries.
 - **[Fashion-MNIST CNN](https://github.com/ghayaaaaaaa/fashion-mnist-cnn)** — An AI-assisted TensorFlow/Keras portfolio refactor based on an image-classification notebook supplied by Ghaya. It provides three configurable CNN variants, early stopping, and JSON evaluation output; no benchmark result is claimed.
 - **[Image Processing Workbench](https://github.com/ghayaaaaaaa/image-processing-workbench)** — A reproducible Python CLI for classic image transformations on generated inputs, with a local artifact manifest and no network calls. See its README for provenance and limitations.
